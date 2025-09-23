@@ -15,6 +15,10 @@
 ---
 
 ## 📌 Projects
+- **CAPSTONE**  
+  React + Spring Boot + MySQL 기반 웹 프로젝트  
+  대학교 졸업작품
+  
 - **GUNG ON (궁 온)**  
   JSP & Servlet 기반 웹 프로젝트  
   궁능유적본부를 벤치마킹하여 설계한 **궁궐 정보 통합 웹 서비스**
