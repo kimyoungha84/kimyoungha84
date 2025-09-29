@@ -15,7 +15,7 @@
 ---
 
 ## 📌 Projects
-- **CAPSTONE**  
+- **CAPSTONE** [https://www.capstone.me.kr]  
   React + Spring Boot + MySQL 기반 웹 프로젝트  
   대학교 졸업작품
   
